@@ -1,5 +1,4 @@
 ## Hi there, I'm Gediminas. Designer & Front-end Developer 👋
--------
 
 ### I design and code beautifully simple things, and I love what I do.
 
@@ -26,5 +25,9 @@
 
 <br />
 <br />
+
+---
+title-heading: false
+---
 
 [linkedin]: https://www.linkedin.com/in/gediminas-nicys-90a517140/
