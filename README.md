@@ -1,4 +1,4 @@
-# Hi there, I'm Gediminas. Designer & Front-end Developer 👋
+### Hi there, I'm Gediminas. Designer & Front-end Developer 👋
 
 ### I design and code beautifully simple things, and I love what I do.
 
