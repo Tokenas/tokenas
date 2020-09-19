@@ -26,6 +26,4 @@
 <br />
 <br />
 
----
-
 [linkedin]: https://www.linkedin.com/in/gediminas-nicys-90a517140/
