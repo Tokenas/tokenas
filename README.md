@@ -1,5 +1,8 @@
 ## Hi there, I'm Gediminas. Designer & Front-end Developer 👋
 
+<br />
+<br />
+
 ### I design and code beautifully simple things, and I love what I do.
 
 - I’m currently learning everything
