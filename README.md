@@ -26,7 +26,4 @@
 <br />
 <br />
 
-h1, .h1 { color: red; }
-
-
 [linkedin]: https://www.linkedin.com/in/gediminas-nicys-90a517140/
