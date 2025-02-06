@@ -1,6 +1,5 @@
 # Hi there, I'm Gediminas. 
-<br />
-## Email Developer | Crafting Responsive, Cross-Client Campaigns | Front-End Developer
+# Email Developer | Crafting Responsive, Cross-Client Campaigns | Front-End Developer
 
 - Passionate about building responsive websites and email campaigns that provide a seamless user experience.
 - Currently diving into React.js while developing my portfolio website.
