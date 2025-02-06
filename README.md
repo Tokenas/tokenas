@@ -1,10 +1,10 @@
-## Hi there, I'm Gediminas. Designer & Front-end Developer 👋
+# Hi there, I'm Gediminas. 
+<br />
+## Email Developer | Crafting Responsive, Cross-Client Campaigns | Front-End Developer
 
-### I design and code beautifully simple things, and I love what I do.
-
-- I’m currently learning everything
-- I’m looking to collaborate with other content creators
-- Fun fact: I love to draw and illustrate
+- Passionate about building responsive websites and email campaigns that provide a seamless user experience.
+- Currently diving into React.js while developing my portfolio website.
+- Always learning and improving my front-end development skills.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
